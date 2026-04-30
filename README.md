@@ -9,6 +9,7 @@ Entregas de trabajos prácticos para la materia de Procesamiento de Lenguaje Nat
 | Desafío 1 | [Desafio_1.ipynb](Desafios/Desafio_1.ipynb) |
 | Desafío 2 | [Desafio_2.ipynb](Desafios/Desafio_2.ipynb) |
 | Desafío 3 | [Desafio_3.ipynb](Desafios/Desafio_3.ipynb) |
+| Desafío 4 | [Desafio_4.ipynb](Desafios/Desafio_4.ipynb) |
 
 ## Autor
 
